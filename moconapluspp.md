@@ -49,3 +49,4 @@ The Application does not address anyone under the age of 13. The Service Provide
 Security
 -
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
